@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hxcollection.com.br/sitemap.xml
